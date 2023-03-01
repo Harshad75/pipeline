@@ -1,0 +1,1 @@
+echo "Quality-gate test will pass %date% : %time% "

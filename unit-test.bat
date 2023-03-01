@@ -1,0 +1,1 @@
+echo "unit-test will pass %date% : %time% "
